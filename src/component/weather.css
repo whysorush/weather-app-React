@@ -215,3 +215,6 @@
     display: flex;
     justify-content: space-between;
   }
+  .text-color{
+    color: #fafbfd;
+  }
