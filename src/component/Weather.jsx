@@ -49,7 +49,7 @@ export default function Weather() {
         {/* {dataJson} */}
       </div>
       <div class="container"  margin="normal">
-        <input type="text" defaultValue={weather} onChange={inputHandle} />
+        <input type="text" placeholder={weather} onChange={inputHandle} />
       </div>
       <div class="container">
         <div>
